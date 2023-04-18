@@ -21,7 +21,7 @@ return {
   -- colorscheme = "astrodark",
   -- colorscheme = "catppuccin-mocha",
   -- colorscheme = "rose-pine",
-  colorscheme = "sonokai",
+  colorscheme = "kanagawa-wave",
   --
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {

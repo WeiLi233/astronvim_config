@@ -22,7 +22,13 @@ return {
                 variant = 'main'
             }
         end,
-    }
+    },
+    {
+        "rebelot/kanagawa.nvim",
+        config = function()
+            require("kanagawa").setup {}
+        end,
+    },
   -- "andweeb/presence.nvim",
   -- {
   --   "ray-x/lsp_signature.nvim",
